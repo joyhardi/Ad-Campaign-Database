@@ -11,7 +11,7 @@ Designed and implemented a relaitonal database system to manage advertisers, cam
 
 ## ER Diagram
 ![ER Diagram](Diagrams/ER_Diagram.png)
-- The following diagram illustrates the relationships between advertisers, campaigns, publishers, and billing entities
+- The diagram illustrates the relationships between advertisers, campaigns, publishers, and billing entities
 - Advertisers launch campaigns and pays bill to publish campaign on Publisher's website
 
 ## Files
