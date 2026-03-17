@@ -1,0 +1,17 @@
+AdvertiserID	AdvertiserName	IndCategory	Street	Zip	Country	ContactPersonName
+A001	BYD	Automotive	Electric Avenue	55000	China	Wang Fu
+A002	Midea	Appliance	Sea Drive	35001	China	He Jian
+A003	Vivo	Phone	Star Road	53010	China	Brandon Lim
+A004	Xiaomi CN	Phone	Sun Boulevard	85000	China	Lei Jun
+A005	Mahindra	Automotive	Double Way	75005	India	Anish Shah
+A006	Sony	TV	Ume Lane	110101	Japan	Shin Chan
+A007	Samsung	Phone	Ocean Street	94151	Korea	Jim Lee
+A008	AirAsia	Airline	Jalan Terbang	64000	Malaysia	Zahid Yusof
+A009	Creative	Audio	Sound Road	609921	Singapore	Fred Sim
+A010	Grab	Ride Hailing	Media Close	138498	Singapore	Tony Tan
+A011	Singapore Airlines	Airline	Airline Road	819829	Singapore	Don Goh
+A012	Xiaomi SG	Phone	Moon Road	230041	Singapore	Kin Lim
+A013	Swatch	Watch	Mountain Path	36912	Switzerland	Nick Hayek
+A014	Apple	Phone	Orchard Way	95014	USA	Tim Cook
+A015	Tesla	Automotive	Self Drive	73301	USA	Elon Musk
+A016	WPP	TV	Sunset Rise	93121	Korea	Ga Young

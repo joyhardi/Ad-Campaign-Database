@@ -1,0 +1,18 @@
+AdvertiserID	IndCategory
+A004	Appliance
+A004	Automotive
+A006	Camera
+A006	Game
+A007	Appliance
+A007	Semiconductor
+A007	TV
+A007	Wearable
+A008	Ride Hailing
+A010	Food Delivery
+A010	Payment
+A012	Appliance
+A012	Smart Home
+A012	Wearable
+A014	Computer
+A014	Wearable
+A016	Game
