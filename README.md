@@ -16,13 +16,13 @@ Designed and implemented a relaitonal database system to manage advertisers, cam
 
 ## Files
 - `Schema.sql` --> table creation
-- `InsertData` --> Data import & insert
+- `InsertData.sql` --> Data import & insert
 - `Queries.sql` --> analysis queries
 
 ## How to Run
 1. Create the database in MySQL.
 2. Run `Schema.sql` to build tables.
-3. Use `InsertData` to populate with sample records.
+3. Use `InsertData.sql` to populate with sample records.
 4. Run queries from `Queries.sql` for analysis.
 
 ## Key Learning Points
